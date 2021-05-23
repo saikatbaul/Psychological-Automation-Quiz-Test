@@ -5,13 +5,14 @@ Department of Computer Science
 
 Term Project Proposal
 
-Course: OBJECT ORIENTED PROGRAMMING 2 [D] (Summer 2019-20)
+Course: Software Requirement Engineering [A] (Summer 2020-21)
 
-Group Members: 3
+Group Members: 4
 
     SAIKAT BAUL (18-36193-1)
     SAKIMUL KARIM ADAN (18-36622-1)
-    MD. RATAN RANA (18-37631-1)
+    Amit Paul (17-34918-2)
+    Rakib Ahmed (18-37964-2)
 
 Project Title: Psychological Automation Quiz Test
 
