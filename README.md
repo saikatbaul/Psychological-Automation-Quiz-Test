@@ -1,4 +1,4 @@
-# Psychological-Automation-Quiz-Test-
+# Psychological-Automation-Quiz-Test
 American International University-Bangladesh
 
 Department of Computer Science
