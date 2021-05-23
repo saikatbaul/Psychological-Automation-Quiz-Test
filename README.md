@@ -5,7 +5,7 @@ Department of Computer Science
 
 Term Project Proposal
 
-Course: Software Requirement Engineering [A] (Summer 2020-21)
+Course: Software Requirement Engineering [A] (Spring 2020-21)
 
 Group Members: 4
 
